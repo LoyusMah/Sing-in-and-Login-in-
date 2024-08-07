@@ -18,7 +18,7 @@ background-color: aqua;
     height: 270px;
     margin: auto;
     border-radius: 4px;
-    
+
 }
 h1{
     text-align: center;
@@ -43,7 +43,7 @@ form input{
     outline: none ;
 
 }
-input[type="button"]{
+.button{
     width: 320px;
     height: 35px;
     margin-top: 20px;
